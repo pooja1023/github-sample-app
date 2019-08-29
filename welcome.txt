@@ -1,6 +1,0 @@
-
-<<<<<<< HEAD
-Git practice session ABC master file
-=======
-Git practice session XYZ by dev branch
->>>>>>> dev
