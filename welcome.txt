@@ -1,2 +1,2 @@
 
-Git practice session A
+Git practice session XYZ by dev branch
